@@ -20,14 +20,14 @@ Cada registro contiene la siguiente información:
 - Cantidad disponible
 - Estado
 
-#Segundo SQL
+## Segundo SQL
 Seguardan los datos del encargado
--Id
--equipo
--Fecha
--Responsable
--Cantidad prestada
--estado
+- Id
+- equipo
+- Fecha
+- Responsable
+- Cantidad prestada
+- estado
 
 ## Tecnologías utilizadas
 <div align="center">
